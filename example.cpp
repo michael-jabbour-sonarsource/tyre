@@ -2,7 +2,6 @@
 #include <cassert>
 #include <iostream>
 
-// trigger analysis
 struct duck_visitors
 {
     static constexpr tyre::visitor_list visitors
